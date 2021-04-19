@@ -1,7 +1,8 @@
 # 🔒 퀵섬웨어 (Advanced Ransomware)
 
+<p align="center">
 [![시연영상](http://img.youtube.com/vi/BATqCT6oAOE/0.jpg)](https://youtu.be/BATqCT6oAOE?t=0s) 
-
+</p>
 
 ### 📄 Content
 
